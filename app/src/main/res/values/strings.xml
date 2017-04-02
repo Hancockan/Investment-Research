@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">InvestmentResearch</string>
+    <string name="title_activity_start_page">StartPage</string>
+</resources>
